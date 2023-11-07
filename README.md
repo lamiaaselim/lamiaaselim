@@ -32,7 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-61DAFB?)&nbsp;
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-05122A?)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
