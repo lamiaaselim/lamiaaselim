@@ -19,7 +19,12 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/lamiaaselim" target="_blank"><img src="https://img.shields.io/badge/Lamiaa%20Selim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lamiaaselim" target="_blank">
+<img src="https://img.shields.io/badge/Lamiaa%20Selim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a> &nbsp; &nbsp;
+<a href="https://khamsat.com/user/lamiaa_selim/reviews" target="_blank">
+  <img src="https://img.shields.io/badge/Lamiaa%20Selim-fcb62e?style=for-the-badge&logo=khamsat&logoColor=black"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
