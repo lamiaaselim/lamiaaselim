@@ -21,8 +21,10 @@
 
 <a href="https://www.linkedin.com/in/lamiaaselim" target="_blank">
 <img src="https://img.shields.io/badge/Lamiaa%20Selim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a> &nbsp; &nbsp;
+</a>
+<br />
 <a href="https://khamsat.com/user/lamiaa_selim/reviews" target="_blank">
+  <img src="https://khamsat.hsoubcdn.com/assets/images/favicon-740117d323c70fbc071fefd88fbff2f0bb0746f995a2f852ac2d46bea229f212.png" style="width:20px; height:28px"/>
   <img src="https://img.shields.io/badge/Lamiaa%20Selim-fcb62e?style=for-the-badge&logo=khamsat&logoColor=black"/>
 </a>
 
