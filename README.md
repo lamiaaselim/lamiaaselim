@@ -14,7 +14,7 @@
 - 🏢 Full Stack Developer and Teaching Assistant at Menofia University with 2 years of experience in front-end development.
 - 👩‍💻 As a as a software developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular, ReactJS, and NodeJS, or anything related to web development.
-- 👩‍💻 Check out my portfolio at <a href="https://lamiaaselim.github.io/my-profile"> my portfolio </a> to see some of the projects I've worked on.
+- 👩‍💻 Check out my portfolio at <a href="https://lamiaaselim.github.io/my-profile" target="_blank"> my portfolio </a> to see some of the projects I've worked on.
 
 
 ### Connect with Me :
